@@ -19,7 +19,7 @@ export default function ContactPage() {
               </h2>
               <p>🏚 <strong>Address:</strong> Hno.1, Plot no. 569, Kh.no. 94/18, gali no. 4, Block-B, Baba Colony, Burari, Delhi-110084</p>
               <p>📞 <strong>Phone:</strong> +91 9315006528</p>
-              <p>📧 <strong>Email:</strong> reneelearningcentre@gmail.com</p>
+              <p>📧 <strong>Email:</strong> reenelearningcentre@gmail.com</p>
               <p>⏰ <strong>Hours:</strong> Mon – Sat: 2:00 PM – 7:00 PM</p>
             </div>
 

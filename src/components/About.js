@@ -7,7 +7,7 @@ export default function AboutUs() {
         </h2>
         <p className="text-lg text-gray-700 leading-relaxed mb-8">
           <span className="font-semibold text-pink-600">
-            Renee Learning Centre
+            Reene Learning Centre
           </span>
           , a trusted daycare and learning space located in Burari,
           Delhi-110084. We provide a safe, nurturing, and joyful environment
@@ -23,7 +23,7 @@ export default function AboutUs() {
 
         {/* New paragraph about scholarships & EWS waiver */}
         <p className="text-lg text-gray-700 leading-relaxed">
-          At <span className="font-semibold text-pink-600">Renee Learning
+          At <span className="font-semibold text-pink-600">Reene Learning
           Centre</span>, we are also committed to making education inclusive and
           accessible. To support this vision, we proudly offer a{" "}
           <span className="font-semibold text-green-600">

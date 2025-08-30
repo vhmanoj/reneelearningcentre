@@ -22,7 +22,7 @@ export default function Amenities() {
 
       {/* Paragraph under the title */}
       <p className="text-lg md:text-xl text-gray-600 mb-10 max-w-3xl text-center">
-        At Renee Learning Center, we provide a safe, nurturing, and engaging environment 
+        At Reene Learning Center, we provide a safe, nurturing, and engaging environment 
         designed to support every child’s growth and creativity. Here are some of the key 
         amenities that make our center a special place for learning and fun.
       </p>

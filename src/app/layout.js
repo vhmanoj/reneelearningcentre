@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Renee Learning Center",
-  description: "Renee Learning center daycare for children.",
+  title: "Reene Learning Center",
+  description: "Reene Learning center daycare for children.",
 };
 
 export default function RootLayout({ children }) {
